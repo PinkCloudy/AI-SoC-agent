@@ -1,0 +1,8 @@
+# BẢO MẬT
+*.pem
+.env
+
+# File rác
+__pycache__/
+*.pyc
+.DS_Store
